@@ -1,0 +1,9 @@
+streamlit-summarizer-app/streamlit-summarizer-app/requirements.txt
+
+streamlit
+transformers
+torch
+PyMuPDF
+Pillow
+pytesseract
+streamlit-ace
