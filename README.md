@@ -58,19 +58,6 @@ User Downloads Handwritten Summary PDF
     ```
 4. **Open the app in your browser, upload a file, and enjoy!**
 
----
-
-## 📝 Example
-
-### Input PDF
-
-![Example PDF](example_input.png)  
-*(Replace with a screenshot or image of your sample PDF)*
-
-### Output Handwritten Summary PDF
-
-![Handwritten Summary](example_output.png)  
-*(Replace with a screenshot or image of the generated handwritten summary PDF)*
 
 ---
 
