@@ -1,5 +1,3 @@
-streamlit-summarizer-app/streamlit-summarizer-app/requirements.txt
-
 streamlit
 transformers
 torch
